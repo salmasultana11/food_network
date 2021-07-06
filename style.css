@@ -34,13 +34,17 @@ h1{
     font-size: 50px;
     text-align: center;
 }
-
+h3{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
 .orange-text-color{
     color: orange;
 }
 .style-button{
     text-decoration: none;
-    background-image: linear-gradient(rgb(245, 176, 49), tomato);
+    background-image: linear-gradient(rgb(136, 118, 201), tomato);
     padding: 23px 40px;
     border-radius: 30px;
     color: white;
@@ -71,16 +75,16 @@ h1{
 }
 .Recipes{
     width:100%;
-    height: 80%;
+    height: 100%;
     margin: 3%;
     padding: 1%;
     box-shadow: 10px 10px 50px gray;
     border-radius: 20px;
 }
 .Recipes img{
-    width: 80%;
+    width: 93%;
     height: 80%;
-    margin: 5px;
+    margin: 3px;
     padding-left: 2%;
 }
 .paragraph-receipe{
@@ -88,18 +92,25 @@ h1{
     padding: 2px;
 }
 .social-media{
-    width:80%;
-    height: auto;
+    width: 90%;
+    height: 80%;
+    margin: 5%;
     box-shadow: 10px 10px 50px gray;
-    border-radius: 20px;
+    border-radius: 25px;
+}
+.width{
+    width: 80%;
+    height: 80%;
+    padding: 2%;
+    text-align: center;
 }
 
+
 .app-link{
-    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-image: url(images/shapes/Group\ 8447.png);
     background-repeat: no-repeat;
     background-position: cover;
 }
-
 
 footer{
     background-color: cadetblue;
