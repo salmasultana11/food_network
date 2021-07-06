@@ -44,7 +44,7 @@ h3{
 }
 .style-button{
     text-decoration: none;
-    background-image: linear-gradient(rgb(136, 118, 201), tomato);
+    background-image: linear-gradient(rgb(118, 191, 201), rgb(83, 71, 255));
     padding: 23px 40px;
     border-radius: 30px;
     color: white;
