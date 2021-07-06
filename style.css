@@ -1,0 +1,51 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+h1{
+    font-size: 50px;
+}
+.orange-text-color{
+    color: orange;
+}
+.style-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(245, 176, 49), tomato);
+    padding: 23px 40px;
+    border-radius: 30px;
+    color: white;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width image{
+    width: 80%;
+}
+.secton-aboutMe{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.Recipe{
+    width:10%;
+    height: 80%;
+    margin: 2%;
+    padding-left: 2%;
+}
+.Recipe image{
+    width: 30%;
+    height: 80%;
+
+}
+
+/*.width{
+    width: 30%;
+    padding-left: 2%;
+}
+.width-image{
+    width: 40%;
+}*/
